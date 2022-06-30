@@ -1,0 +1,41 @@
+.loginForm {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.loginInput {
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 5px;
+}
+
+.loginButton {
+    background-color: #8e9196;
+    border: none;
+    color: #1f1f22;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.divLogo {
+    width: 90px;
+    height: 90px;
+    margin: 15% auto auto auto;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 88px;
+    height: 88px;
+    
+}
+
+.siteTitle {
+    text-align: center;
+    font-size: 42px;
+    margin-top: 15px;
+    color: #dcddde;
+}
